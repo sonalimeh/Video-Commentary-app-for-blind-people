@@ -1,0 +1,102 @@
+1 Person is applying eye makeup.
+2 Person is applying Lipstick.
+3 Person is practicing archery.
+4 Baby is crawling .
+5 Person is working on balance beam.
+6 Person is looking at the band marching.
+7 People are palying on baseball pitch.
+8 Person is playing basketball.
+9 People are playing with basketball dunk.
+10 Person is working out on a bench press.
+11 Person is enjoying biking.
+12 Person is playing billards.
+13 Person is blowing her dry hair.
+14 Person is blowing candles.
+15 Person is working out with body weight squats.
+16 Person is bowling.
+17 Person is boxing the punching bag.
+18 Person is boxing with the speed bag.
+19 Person is working on breaststroke technique.
+20 Person is brushing teeth.
+21 Person is working on Clean and Jerk technique.
+22 Person is working on cliff diving technique.
+23 Person is bowling in game of cricket
+24 Person has blown a shot in game of cricket.
+25 Person is cutting in kitchen.
+26 Person is diving.
+27 Person is drumming.
+28 Person is enjoying fencing.
+29 Person has been imposed penalty in field hockey.
+30 Person is practicinf floor gymnastics.
+31 Person is working on Frisbee catch.
+32 Person is working on front crawl technique.
+33 Person is working on golf swing.
+34 Person is undergoing haircut.
+35 Person is hammerring something.
+36 Person is working on hammer throw technique.
+37 Person is working upon handstand pushups.
+38 Person is working on handstand technique.
+39 Person is undergoing head massage.
+40 Person is working on high jump.
+41 Person is enjoying in horse race.
+42 Person is participating in horseriding.
+43 Person is working on Hula hoop.
+44 Person is enjoying Ice dancing.
+45 Person is working on Javelin throw.
+46 Person is working on Juggling Balls.
+47 Person is working on jumping jack technique.
+48 Person is working on jumping rope.
+49 Person is enjoying the kaying sport.
+50 Person is knitting the clothes.
+51 Person is working on long jump.
+52 Person is working out on lunges.
+53 There is a military parade going on.
+54 Person is mixing something.
+55 Person is mopping the floor.
+56 Person is working on Nunchucks technique.
+57 Person is working on parallel bars.
+58 Person is tossing a pizza.
+59 Person is playing a cello.
+60 Person is playing a Daf.
+61 Person is playing a Dhol.
+62 Person is playing a flute.
+63 Person is playing a Guitar.
+64 Person is playing a Piano.
+65 Person is playing a Sitar.
+66 Person is playing a tabla.
+67 Person is palying a Violin.
+68 Person is working on Pole Vault.
+69 Person is working with a Pommel Horse.
+70 Person is working on pull ups.
+71 Person is working on punches.
+72 Person is working on push ups.
+73 Person is enjoying rafting.
+74 Person is working on indooe rock climbing.
+75 Person is enjoying rope climbing.
+76 Person is enjoying rowing.
+77 Person is working on SalaSpin technique.
+78 Person is shaving his beard.
+79 Person is working on shotput technique.
+80 Person is practicing Skate boarding.
+81 Person is working on skiing techniques.
+82 Person is enjoying skijet sport.
+83 Person is enjoying skydiving sport.
+84 Person is working on Soccer Juggling techniques.
+85 Soccer penalty is being currently executed.
+86 Person is working on StillRings sport.
+87 Person is working on sumo wrestling.
+88 Person is working on techniques of Surfing sport.
+89 Person is enjoying the swing.
+90 Person is practicing table tennis shots.
+91 Person is practicing TaiChi.
+92 Person is practicing tennis swing techniques.
+93 Person is practicing discuss throwing.
+94 person is working on Trampoline jumping.
+95 Person is typing.
+96 Person is working on techniques of UnevenBars,
+97 Person is working upon Volleyball spiking.
+98 Person is walking with a dog,
+99 Person is working out with wall pushups.
+100 Person is writing on board.
+101 Person is working on yoyo techniques.
+ 
